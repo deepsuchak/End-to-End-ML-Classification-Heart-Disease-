@@ -2,7 +2,7 @@
 
 ### Workflow/Action Plan
 It is one of my first end to end Data Science projects
-All the way from the basic data analysis ---> to exploratory data analysis ---> to visualization of data ---> to modelling ---> to comparing various models ---> to figuring out the best one ---> to improving that model (fancy it as hyperparameter tuning) ---> to calculating the accuracy metrics ---> to 'finally & finally' end it by checking out the most important features contributing to the model.
+All the way from the basic data analysis ---> to exploratory data analysis ---> to visualization of data ---> to modelling ---> to comparing various models ---> to figuring out the best one ---> to improving that model (fancy it as hyperparameter tuning) ---> to calculating the accuracy metrics ---> to 'finally & finally' ending it by checking out the most important features contributing to the model.
 ### More to Come
 I'll be uploading the pickle file... 
 
